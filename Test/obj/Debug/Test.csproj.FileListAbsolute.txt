@@ -1,0 +1,17 @@
+c:\users\shichiki\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\ShichiKi\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
